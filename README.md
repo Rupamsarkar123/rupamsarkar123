@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rupam Sarkar</h1>
 <h3 align="center">💻 3rd-year B.Tech student passionate about web development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupamsarkar123" alt="rupamsarkar123" /></a> </p>
-
 - 🌱 I’m currently learning **Java(DSA)**
 
 - 👨‍💻 All of my projects are available at [https://rupams-portfolio.vercel.app/](https://rupams-portfolio.vercel.app/)
@@ -13,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@rupam_322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rupam_322" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rupam-sarkar-27022004fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupam-sarkar-27022004fb" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rupam322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rupam322" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/srupa4bhx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="srupa4bhx" height="30" width="40" /></a>
