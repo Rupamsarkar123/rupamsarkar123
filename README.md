@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java(DSA)**
 
-- 👨‍💻 All of my projects are available at [https://rupams-portfolio.vercel.app/]([https://rupams-portfolio.vercel.app/](https://portfolio-1-3b61.onrender.com/))
+- 👨‍💻 All of my projects are available at [(https://portfolio-1-3b61.onrender.com/)]
 
 - 📫 Reach me at **srupam322@gmail.com**
 
