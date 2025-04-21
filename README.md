@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **srupam322@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VNpKTPUjCdwpZnOnHNA_Z8tMSyFB3edD/view?usp=sharing](https://drive.google.com/file/d/1VNpKTPUjCdwpZnOnHNA_Z8tMSyFB3edD/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1NPpjkYWT_jwc0p720IElfAHL_j38F6fZ/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
