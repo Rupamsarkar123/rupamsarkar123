@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupam Sarkar</h1>
-<h3 align="center">💻 3rd-year B.Tech student passionate about web development</h3>
+<h3>💻 3rd-year B.Tech student passionate about web development</h3>
 
 - 🌱 I’m currently learning **Java(DSA)**
 
