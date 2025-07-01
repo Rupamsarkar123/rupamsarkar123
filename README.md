@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java(DSA)**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://portfolio-1-3b61.onrender.com)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://portfolio-five-drab-79.vercel.app/)
 
 - 📫 Reach me at **srupam322@gmail.com**
 
