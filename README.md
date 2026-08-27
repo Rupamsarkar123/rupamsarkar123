@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rupam Sarkar
 
-- 💻 Final year B.Tech student passionate about web development.
+- 💻 Intern @DISW Siemens.
 
 - 🌱 I'm currently learning **Java(DSA)**
 
